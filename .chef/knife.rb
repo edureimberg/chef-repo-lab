@@ -7,3 +7,7 @@ node_name                "edureimberg"
 client_key               "#{current_dir}/edureimberg.pem"
 chef_server_url          "https://api.chef.io/organizations/chef-lab-edureimberg"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+
+cookbook_copyright       "Eduardo Teste"
+cookbook_license         "apachev2"
+cookbook_email           "eduardo.reimberg@gmail.com"
